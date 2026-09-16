@@ -1,0 +1,2 @@
+# thumb
+allthumb my bot
